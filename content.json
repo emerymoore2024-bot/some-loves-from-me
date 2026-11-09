@@ -1,6 +1,6 @@
 {
   "site": {
-    "greeting": "Hey, you!!",
+    "greeting": "Hey, you!",
     "subtitle": "Merry Christmas!",
     "footer": "Love, Emery.",
     "galleryTitle": "Our photos",
@@ -20,15 +20,15 @@
       },
       {
         "photo": "photos/photo12.jpg",
-        "message": "I love you! SO very grateful for you. ♥️"
+        "message": "Us at the beach - wooohoooooo"
       },
       {
         "photo": "photos/photo10.jpg",
-        "message": "Merry Christmas!"
+        "message": "This was the best night of your life😜🍺🍺🍺🍺🍺🍺🍺🍺🍺🍺"
       },
       {
         "photo": "photos/photo03.jpg",
-        "message": "Love, Emery."
+        "message": "kisses🙀."
       }
     ]
   },
@@ -89,55 +89,55 @@
   "surprises": [
     {
       "photo": "photos/photo01.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo04.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo06.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo09.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo07.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo10.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo13.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo02.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo05.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo08.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo11.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo03.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     },
     {
       "photo": "photos/photo12.jpg",
-      "message": "Just a reminder - You are the shit."
+      "message": "Virtual hug🤖🫂"
     }
   ],
   "openWhen": [
