@@ -1,71 +1,165 @@
 {
-  "daily": {
-    "date": "today",
-    "message": "hi babe i love you. just wanted you to know that.",
-    "photo": "photos/photo04.jpg"
+  "site": {
+    "greeting": "Hey, you!!",
+    "subtitle": "Merry Christmas!",
+    "footer": "Love, Emery.",
+    "galleryTitle": "Our photos",
+    "lettersTitle": "Open when..."
   },
+  "daily": {
+    "date": "",
+    "message": "I love you! SO very grateful for you. ♥️",
+    "photo": "photos/photo05.jpg"
+  },
+  "homepage": {
+    "hero": "photos/photo07.jpg",
+    "tiles": [
+      {
+        "photo": "photos/photo02.jpg",
+        "message": "Just a reminder - You are the shit."
+      },
+      {
+        "photo": "photos/photo12.jpg",
+        "message": "I love you! SO very grateful for you. ♥️"
+      },
+      {
+        "photo": "photos/photo10.jpg",
+        "message": "Merry Christmas!"
+      },
+      {
+        "photo": "photos/photo03.jpg",
+        "message": "Love, Emery."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "photo": "photos/photo01.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo02.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo03.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo04.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo05.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo06.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo07.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo08.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo09.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo10.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo11.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo12.jpg",
+      "caption": ""
+    },
+    {
+      "photo": "photos/photo13.jpg",
+      "caption": ""
+    }
+  ],
   "surprises": [
     {
-      "message": "hi i love you",
-      "photo": "photos/photo01.jpg"
+      "photo": "photos/photo01.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "look at us lol",
-      "photo": "photos/photo02.jpg"
+      "photo": "photos/photo04.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "miss your face",
-      "photo": "photos/photo03.jpg"
+      "photo": "photos/photo06.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "this picture makes me happy",
-      "photo": "photos/photo05.jpg"
+      "photo": "photos/photo09.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "remember this?",
-      "photo": "photos/photo07.jpg"
+      "photo": "photos/photo07.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "i wish i was with you rn",
-      "photo": "photos/photo09.jpg"
+      "photo": "photos/photo10.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "you are very cute just saying",
-      "photo": "photos/photo10.jpg"
+      "photo": "photos/photo13.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "one of my favorite pictures of us",
-      "photo": "photos/photo11.jpg"
+      "photo": "photos/photo02.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "love you lots",
-      "photo": "photos/photo12.jpg"
+      "photo": "photos/photo05.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "message": "thinking about you",
-      "photo": "photos/photo13.jpg"
+      "photo": "photos/photo08.jpg",
+      "message": "Just a reminder - You are the shit."
+    },
+    {
+      "photo": "photos/photo11.jpg",
+      "message": "Just a reminder - You are the shit."
+    },
+    {
+      "photo": "photos/photo03.jpg",
+      "message": "Just a reminder - You are the shit."
+    },
+    {
+      "photo": "photos/photo12.jpg",
+      "message": "Just a reminder - You are the shit."
     }
   ],
   "openWhen": [
     {
-      "title": "you miss me",
-      "message": "i miss you too. love you",
-      "photo": "photos/photo06.jpg"
+      "title": "You miss me",
+      "message": "I guarantee I miss you more. I wish I could give you a big huge hug right now. 🫂",
+      "photo": "photos/photo13.jpg"
     },
     {
-      "title": "you need a smile",
-      "message": "look at this picture of us lol",
+      "title": "You had a hard day",
+      "message": "I'm sorry today was hard. I am always here, call me!",
+      "photo": "photos/photo05.jpg"
+    },
+    {
+      "title": "You need a smile",
+      "message": "I hope THIS picture makes you smile. ",
       "photo": "photos/photo08.jpg"
     },
     {
-      "title": "you had a long day",
-      "message": "hi. i hope tomorrow is better. i love you",
-      "photo": "photos/photo04.jpg"
-    },
-    {
-      "title": "you just feel like it",
-      "message": "hi jack. love you",
-      "photo": "photos/photo02.jpg"
+      "title": "You need a reminder that I love you",
+      "message": "I love you so much. I'm really lucky I get to be your person. 🎉",
+      "photo": "photos/photo11.jpg"
     }
   ]
 }
