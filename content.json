@@ -1,3 +1,4 @@
+
 {
   "site": {
     "greeting": "Hey, you!",
@@ -9,157 +10,157 @@
   "daily": {
     "date": "",
     "message": "I love you! SO very grateful for you. ♥️",
-    "photo": "photos/photo05.jpg"
+    "photo": "photos/1month_dinner_B&W.jpg"
   },
   "homepage": {
-    "hero": "photos/photo07.jpg",
+    "hero": "photos/Sharing_drink.jpg",
     "tiles": [
       {
-        "photo": "photos/photo02.jpg",
+        "photo": "photos/Halloween_Couch_Selfie.jpg",
         "message": "Just a reminder - You are the shit."
       },
       {
-        "photo": "photos/photo12.jpg",
+        "photo": "photos/Asbury_Selfie.jpg",
         "message": "Us at the beach - wooohoooooo"
       },
       {
-        "photo": "photos/photo10.jpg",
+        "photo": "photos/Mirror_4018_Party.jpg",
         "message": "This was the best night of your life😜🍺🍺🍺🍺🍺🍺🍺🍺🍺🍺"
       },
       {
-        "photo": "photos/photo03.jpg",
+        "photo": "photos/Kissy.jpg",
         "message": "kisses🙀."
       }
     ]
   },
   "gallery": [
     {
-      "photo": "photos/photo01.jpg",
+      "photo": "photos/Phillies_with_stadium.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo02.jpg",
+      "photo": "photos/Halloween_Couch_Selfie.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo03.jpg",
+      "photo": "photos/Kissy.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo04.jpg",
+      "photo": "photos/Fall_Bench_Soft_Smile.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo05.jpg",
+      "photo": "photos/1month_dinner_B&W.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo06.jpg",
+      "photo": "photos/Fireworks.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo07.jpg",
+      "photo": "photos/Sharing_drink.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo08.jpg",
+      "photo": "photos/Asbury_Mirror.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo09.jpg",
+      "photo": "photos/Asbury_Dinner.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo10.jpg",
+      "photo": "photos/Mirror_4018_Party.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo11.jpg",
+      "photo": "photos/Fall_Bench_Teeth_Smile.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo12.jpg",
+      "photo": "photos/Asbury_Selfie.jpg",
       "caption": ""
     },
     {
-      "photo": "photos/photo13.jpg",
+      "photo": "photos/Facetime_Smiling.jpg",
       "caption": ""
     }
   ],
   "surprises": [
     {
-      "photo": "photos/photo01.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Phillies_with_stadium.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo04.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Fall_Bench_Soft_Smile.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo06.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Fireworks.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo09.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Asbury_Dinner.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo07.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Sharing_drink.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo10.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Mirror_4018_Party.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo13.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Facetime_Smiling.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo02.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Halloween_Couch_Selfie.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo05.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/1month_dinner_B&W.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo08.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Asbury_Mirror.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo11.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Fall_Bench_Teeth_Smile.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo03.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Kissy.jpg",
+      "message": "Just a reminder - You are the shit."
     },
     {
-      "photo": "photos/photo12.jpg",
-      "message": "Virtual hug🤖🫂"
+      "photo": "photos/Asbury_Selfie.jpg",
+      "message": "Just a reminder - You are the shit."
     }
   ],
   "openWhen": [
     {
       "title": "You miss me",
       "message": "I guarantee I miss you more. I wish I could give you a big huge hug right now. 🫂",
-      "photo": "photos/photo13.jpg"
+      "photo": "photos/Facetime_Smiling.jpg"
     },
     {
       "title": "You had a hard day",
       "message": "I'm sorry today was hard. I am always here, call me!",
-      "photo": "photos/photo05.jpg"
+      "photo": "photos/1month_dinner_B&W.jpg"
     },
     {
       "title": "You need a smile",
       "message": "I hope THIS picture makes you smile. ",
-      "photo": "photos/photo08.jpg"
+      "photo": "photos/Asbury_Mirror.jpg"
     },
     {
       "title": "You need a reminder that I love you",
       "message": "I love you so much. I'm really lucky I get to be your person. 🎉",
-      "photo": "photos/photo11.jpg"
+      "photo": "photos/Fall_Bench_Teeth_Smile.jpg"
     }
   ]
 }
