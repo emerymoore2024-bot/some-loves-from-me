@@ -1,52 +1,71 @@
 {
   "daily": {
-    "date": "whenever you need this",
-    "message": "Hey honey! Even when we are in different places, I wanted you to have a little piece of me with you. I hope this makes an ordinary day feel a bit more like us. Love you.",
-    "photo": "images/today.jpg"
+    "date": "today",
+    "message": "hi babe i love you. just wanted you to know that.",
+    "photo": "photos/photo04.jpg"
   },
   "surprises": [
     {
-      "message": "Jack, if I could pick one place to be right now, it would be next to you.",
-      "photo": "images/surprise1.jpg"
+      "message": "hi i love you",
+      "photo": "photos/photo01.jpg"
     },
     {
-      "message": "A reminder from ur girl: I am so proud of you, especially on the days you aren't proud of yourself. Those are the days where you impress me the most. You encorage me to keep going you are like the definition of perserverance.",
-      "photo": ""
+      "message": "look at us lol",
+      "photo": "photos/photo02.jpg"
     },
     {
-      "message": "Redeem this for one long hug the next time I see you. No expiration date.",
-      "photo": ""
+      "message": "miss your face",
+      "photo": "photos/photo03.jpg"
     },
     {
-      "message": "I love all the little ordinary moments with you. Those are my favorites.",
-      "photo": ""
+      "message": "this picture makes me happy",
+      "photo": "photos/photo05.jpg"
+    },
+    {
+      "message": "remember this?",
+      "photo": "photos/photo07.jpg"
+    },
+    {
+      "message": "i wish i was with you rn",
+      "photo": "photos/photo09.jpg"
+    },
+    {
+      "message": "you are very cute just saying",
+      "photo": "photos/photo10.jpg"
+    },
+    {
+      "message": "one of my favorite pictures of us",
+      "photo": "photos/photo11.jpg"
+    },
+    {
+      "message": "love you lots",
+      "photo": "photos/photo12.jpg"
+    },
+    {
+      "message": "thinking about you",
+      "photo": "photos/photo13.jpg"
     }
   ],
   "openWhen": [
     {
-      "title": "You miss me",
-      "message": "Hi babe. I miss you too. Distance changes where we are, not how much you mean to me. We will have another ordinary day together soon, and I cannot wait.",
-      "photo": "images/miss-me.jpg"
+      "title": "you miss me",
+      "message": "i miss you too. love you",
+      "photo": "photos/photo06.jpg"
     },
     {
-      "title": "You have a hard day",
-      "message": "You do not have to have it all figured out today. I believe in you, and I am here for the messy days too.",
-      "photo": ""
+      "title": "you need a smile",
+      "message": "look at this picture of us lol",
+      "photo": "photos/photo08.jpg"
     },
     {
-      "title": "You need motivation",
-      "message": "Jack, remember how capable you are. One thing at a time. I am cheering for you from wherever I am.",
-      "photo": ""
+      "title": "you had a long day",
+      "message": "hi. i hope tomorrow is better. i love you",
+      "photo": "photos/photo04.jpg"
     },
     {
-      "title": "You cannot sleep",
-      "message": "Imagine we are together doing absolutely nothing. You are safe, loved, and allowed to rest. Goodnight, babe.",
-      "photo": ""
-    },
-    {
-      "title": "You need to smile",
-      "message": "This is where I will put one of our ridiculous inside jokes. You know the one.",
-      "photo": ""
+      "title": "you just feel like it",
+      "message": "hi jack. love you",
+      "photo": "photos/photo02.jpg"
     }
   ]
 }
