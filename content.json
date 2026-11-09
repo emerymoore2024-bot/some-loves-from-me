@@ -1,0 +1,52 @@
+{
+  "daily": {
+    "date": "whenever you need this",
+    "message": "Hi babe. Even when we are in different places, I wanted you to have a little piece of me with you. I hope this makes an ordinary day feel a bit more like us. Love you.",
+    "photo": "images/today.jpg"
+  },
+  "surprises": [
+    {
+      "message": "Jack, if I could pick one place to be right now, it would be next to you.",
+      "photo": "images/surprise1.jpg"
+    },
+    {
+      "message": "A reminder from your girlfriend: I am proud of you, especially on the days you forget to be proud of yourself.",
+      "photo": ""
+    },
+    {
+      "message": "Redeem this for one long hug the next time I see you. No expiration date.",
+      "photo": ""
+    },
+    {
+      "message": "I love all the little ordinary moments with you. Those are my favorites.",
+      "photo": ""
+    }
+  ],
+  "openWhen": [
+    {
+      "title": "You miss me",
+      "message": "Hi babe. I miss you too. Distance changes where we are, not how much you mean to me. We will have another ordinary day together soon, and I cannot wait.",
+      "photo": "images/miss-me.jpg"
+    },
+    {
+      "title": "You have a hard day",
+      "message": "You do not have to have it all figured out today. I believe in you, and I am here for the messy days too.",
+      "photo": ""
+    },
+    {
+      "title": "You need motivation",
+      "message": "Jack, remember how capable you are. One thing at a time. I am cheering for you from wherever I am.",
+      "photo": ""
+    },
+    {
+      "title": "You cannot sleep",
+      "message": "Imagine we are together doing absolutely nothing. You are safe, loved, and allowed to rest. Goodnight, babe.",
+      "photo": ""
+    },
+    {
+      "title": "You need to smile",
+      "message": "This is where I will put one of our ridiculous inside jokes. You know the one.",
+      "photo": ""
+    }
+  ]
+}
